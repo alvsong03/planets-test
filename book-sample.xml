@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books xmlns = "http://www.nogood.com/Book" Results="2"> 
+    <book isPrinted ="true">
+        <title>Gone With the Wind </title> 
+        <author sort="mitchell">Mitchell</author>
+    </book>
+    <book isPrinted="true">
+        <title>Wuthering Heights</title>
+        <author sort="bronte">Bronte</author>
+    </book>
+</books>
+
+<!-- Line 2 is the web url -->
+ 
